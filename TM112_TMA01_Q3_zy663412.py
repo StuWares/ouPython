@@ -2,8 +2,8 @@
 from turtle import *
 
 number_of_triangles = 3
-length = 40
-distance_to_move = 35
+length = 30
+distance_to_move = 25
 
 for triangle in range(number_of_triangles):
 
